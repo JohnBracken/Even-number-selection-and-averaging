@@ -1,4 +1,5 @@
-/*The following code is an example of a class that generates */
+/*The following code is an example of a class that generates an array
+of twenty random integers and calculates the mean of those numbers.*/
 package numberaverage;
 
 /*Import the full Java utilities library.  Contains a random number
